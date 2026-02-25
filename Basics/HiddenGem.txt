@@ -1,0 +1,2 @@
+git --version (for checking the version of git)
+git config --global help.autocorrect 1 (for getting help)
