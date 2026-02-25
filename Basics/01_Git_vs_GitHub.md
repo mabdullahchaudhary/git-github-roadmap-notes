@@ -37,7 +37,7 @@ flowchart LR
     A[Code Working ✅] -->|git commit| B[Save Point]
     B --> C[New Change]
     C --> D[Bug Introduced ❌]
-    D -->|git checkout / reset| B
+   D -->|git restore / reset| B
 ```
 
 ✅ Meaning: If something breaks, Git lets you go back to a safe version.
