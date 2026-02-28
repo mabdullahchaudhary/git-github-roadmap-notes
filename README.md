@@ -6,7 +6,7 @@
 	<a href="./COURSE_ROADMAP.md">
 		<img src="https://img.shields.io/badge/ROADMAP-View%20Course%20Plan-8A2BE2?style=for-the-badge&logo=readthedocs&logoColor=ffffff&labelColor=18181B" alt="Roadmap" />
 	</a>
-	<a href="./index.html">
+	<a href="https://abdullahchaudhary.com">
 		<img src="https://img.shields.io/badge/WEB_VIEW-index.html-A855F7?style=for-the-badge&logo=googlechrome&logoColor=ffffff&labelColor=18181B" alt="Roadmap Website" />
 	</a>
 </div>
